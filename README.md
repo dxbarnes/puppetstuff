@@ -5,9 +5,9 @@ user_fact.rb
 ------------
 
 a simple fact that creates 
-  1) a fact "users" that shows all local users on a server.
-  2) a fact for every user that exists on the system with a
-     value of true.
+1. a fact "users" that shows all local users on a server.
+2. a fact for every user that exists on the system with a
+value of true.
 
 My initial thought for the use of this fact was to allow myself
 a way to create and set an initial password for users, and then
