@@ -4,8 +4,10 @@ puppetstuff
 user_fact.rb
 ------------
 
-a simple fact that creates 
+a simple fact that creates:
+ 
 1. a fact "users" that shows all local users on a server.
+
 2. a fact for every user that exists on the system with a
 value of true.
 
